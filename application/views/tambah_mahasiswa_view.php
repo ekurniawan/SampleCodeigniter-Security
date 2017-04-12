@@ -11,5 +11,5 @@
     <label for="ipk">IPK :</label><br>
     <input type="text" name="ipk"><br><br>
 
-    <input type="submit" value="Tambah">
+    <input type="submit" class="btn btn-default" value="Tambah">
 </form>
